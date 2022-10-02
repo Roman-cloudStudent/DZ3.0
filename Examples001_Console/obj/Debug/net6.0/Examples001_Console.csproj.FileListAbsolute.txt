@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Examples1\Examples001_Console\bin\Debug\net6.0\Examples001_Console.exe
+C:\Users\HP\Desktop\Examples1\Examples001_Console\bin\Debug\net6.0\Examples001_Console.deps.json
+C:\Users\HP\Desktop\Examples1\Examples001_Console\bin\Debug\net6.0\Examples001_Console.runtimeconfig.json
+C:\Users\HP\Desktop\Examples1\Examples001_Console\bin\Debug\net6.0\Examples001_Console.dll
+C:\Users\HP\Desktop\Examples1\Examples001_Console\bin\Debug\net6.0\Examples001_Console.pdb
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.AssemblyInfo.cs
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.dll
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\refint\Examples001_Console.dll
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.pdb
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\Examples001_Console.genruntimeconfig.cache
+C:\Users\HP\Desktop\Examples1\Examples001_Console\obj\Debug\net6.0\ref\Examples001_Console.dll
